@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.0" start="node4" apprev="17841">
+  <panorama id="node4">
+    <input levelbias="0.400" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="960" height="960">
+      <level preload="0" predecode="0" width="960" height="960"/>
+      <level preload="1" predecode="1" width="480" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-38.146" fovpixel="2" pan="-60"/>
+      <max tilt="38.146" pan="60" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata title="" comment="" latitude="" description="" nodeid="node4" customnodeid="" datetime="" info="" copyright="" source="" tags="sauls house" longitude="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label border="1" backgroundalpha="1" borderradius="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" enabled="1" width="180" height="20" bordercolor="0x000000" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" tilt="3.49" title="Room 1" skinid="ht_node" target="" url="{node2}" description="" pan="-331.29"/>
+      <hotspot id="Point02" tilt="3.22" title="Room 2" skinid="ht_node" target="" url="{node3}" description="" pan="-15.81"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomfov="20" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" dblclickfullscreen="0" lockedwheel="0" hideabout="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="4829" height="4829">
+      <level preload="0" predecode="0" width="4829" height="4829"/>
+      <level preload="0" predecode="0" width="2414" height="2414"/>
+      <level preload="0" predecode="0" width="1207" height="1207"/>
+      <level preload="0" predecode="0" width="603" height="603"/>
+      <level preload="1" predecode="1" width="301" height="301"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-26.2619" fovpixel="2" pan="-90"/>
+      <max tilt="26.2619" pan="90" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata title="" comment="" latitude="" description="" nodeid="node2" customnodeid="" datetime="12/10/19 14:51" info="" copyright="" source="" tags="panorama 180" longitude="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label border="1" backgroundalpha="1" borderradius="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" enabled="1" width="180" height="20" bordercolor="0x000000" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point03" tilt="-11.51" title="Next room" skinid="ht_node" target="" url="{node3}" description="" pan="-86.62"/>
+      <hotspot id="Point02" tilt="7.2" title="Leave the museum" skinid="ht_node" target="" url="{node4}" description="" pan="-275.17"/>
+      <hotspot id="Point05" tilt="-12" title="Windmills" skinid="ht_image" target="" url="images/windmills.jpg" description="" pan="-41.15"/>
+      <hotspot id="Point06" tilt="-18.88" title="Wires" skinid="ht_image" target="" url="images/wires.jpg" description="" pan="-298.91"/>
+      <hotspot id="Point01" tilt="-0.06" title="Orpheus and Euridice" skinid="ht_image" target="" url="images/orpheus and euridice.jpg" description="" pan="-349.27"/>
+      <hotspot id="Point04" tilt="-3.71" title="Zephir" skinid="ht_image" target="" url="images/zaffiro.jpg" description="" pan="-320.8"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomfov="20" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" dblclickfullscreen="0" lockedwheel="0" hideabout="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000" width="7005" height="7005">
+      <level preload="0" predecode="0" width="7005" height="7005"/>
+      <level preload="0" predecode="0" width="3502" height="3502"/>
+      <level preload="0" predecode="0" width="1751" height="1751"/>
+      <level preload="0" predecode="0" width="875" height="875"/>
+      <level preload="1" predecode="1" width="437" height="437"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-21.6142" fovpixel="2" pan="-165"/>
+      <max tilt="21.6142" pan="165" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata title="" comment="" latitude="" description="" nodeid="node3" customnodeid="" datetime="12/10/19 14:39" info="" copyright="" source="" tags="panorama 360" longitude="" author=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label border="1" backgroundalpha="1" borderradius="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" enabled="1" width="180" height="20" bordercolor="0x000000" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point02" tilt="-11.14" title="Previous room" skinid="ht_node" target="" url="{node2}" description="" pan="-160.95"/>
+      <hotspot id="Point01" tilt="3.47" title="Leave the museum" skinid="ht_node" target="" url="{node4}" description="" pan="-6.25"/>
+      <hotspot id="Point03" tilt="-7.94" title="Couples" skinid="ht_image" target="" url="images/couples2.jpg" description="" pan="-219.94"/>
+      <hotspot id="Point04" tilt="2.37" title="Moon" skinid="ht_image" target="" url="images/moon.jpg" description="" pan="-210.56"/>
+      <hotspot id="Point05" tilt="-9.95" title="Structure" skinid="ht_image" target="" url="images/structure.jpg" description="" pan="-244.92"/>
+      <hotspot id="Point06" tilt="-6.85" title="The Island and the Sea" skinid="ht_image" target="" url="images/sea.JPG" description="" pan="-272.51"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomspeed="2" blendtime="1" zoomoutpause="1" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomfov="20" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedkeyboard="0" contextfullscreen="1" dblclickfullscreen="0" lockedwheel="0" hideabout="0" sensitivity="8" contextprojections="0" simulatemass="1" lockedmouse="0" invertcontrol="1" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" latitude="" description="" nodeid="master" customnodeid="" datetime="" info="" copyright="" source="" tags="" longitude="" author=""/>
+  </masternode>
+</tour>
